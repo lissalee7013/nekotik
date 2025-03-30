@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
+body{
+    max-width: 390px;
+    font-family: "Oi", serif;
+    background: lavenderblush;
+}
+
+p{
+    color:mediumorchid;
+    font-size: 70px;
+    text-align:center;
+    background: lavenderblush;
+}
+
+img{
+    width: 300px
+}
